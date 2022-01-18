@@ -12,7 +12,7 @@ echo welcome to Devops
 
 echo Welcome to devops training
 #above will print in one single line
-echo "Hello, \nWelcome to devops training "
+echo "Hello,\nWelcome to devops training "
 #will print in 2 seperate line like
 #hello
 #welcome to devops training when we pull in server.
