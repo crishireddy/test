@@ -18,3 +18,5 @@ echo -e "Hello,\nWelcome to devops training"
 #hello
 #welcome to devops training when we pull in server.
 echo -e "\e[33mHello \nHow are you"
+echo -e "\e[32mI am Rishi \n\e[33mlearning Devops
+"
