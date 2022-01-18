@@ -8,7 +8,7 @@ NAME=DEVOPS
 
 
 #
-count=2
+
 
 #How to acess the variable we use ${var_name} symbol if we dont use $ then it will print just NAME insted of DEVOPS
 
@@ -25,4 +25,6 @@ echo ${NAME}
 #NAME=HELLO WORLD (result will say error in line 25 to avoid that use "
 NAME="HELLO WORLD"
 echo ${NAME}
-#
+
+count=2
+echo "count of Apples =${count}no"
