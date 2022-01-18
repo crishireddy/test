@@ -39,3 +39,5 @@ echo bye
 #   1           bold the text
 #   4           underline the text
 
+echo -e "\e[35mThis will print in magenta colour \e[0m \nthis will print in normal colour"
+
