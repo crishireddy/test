@@ -6,3 +6,4 @@
 # and for everyone its chmod +x 02-print.sh 
 #or 
 #chmod ugo+x 02-print.sh
+# and then you can give ./02-print.sh to excute 
