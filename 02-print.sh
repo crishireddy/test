@@ -17,3 +17,4 @@ echo -e "Hello,\nWelcome to devops training"
 #will print in 2 seperate line like
 #hello
 #welcome to devops training when we pull in server.
+echo -e "\e[33mHello \nHow are you"
