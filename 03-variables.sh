@@ -17,7 +17,7 @@ echo $NAME
 
 #another example
 
-FILE1=sample.txt
-FILE2=new.txt
+#FILE1=sample.txt
+#FILE2=new.txt
 
-cp $FILE1 $FILE2
+#cp $FILE1 $FILE2
