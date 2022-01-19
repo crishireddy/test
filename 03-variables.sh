@@ -31,7 +31,7 @@ echo "count of Apples =${count}no"
 # why we used { was to get count of apples = 2no as result if without {} then it would print count of apples =     ,
 #as it would take countno as one thing but we gave count=2 and we anted to print 2no as result so adding {} would brake
 #count and no without space.
-FULLNAME=RISHI
+FULLNAME=RISHI REDDY
 count=3
 echo "$FULLNAME"
 echo "count of cherry =${count}no"
