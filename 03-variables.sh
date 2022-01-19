@@ -37,5 +37,5 @@ echo "$FULLNAME"
 echo "count of cherry =${count}no"
 #in the above fullname command we have to use quotes after = coz there are two set of strings with space in between,
 # without quotes it will throw an error.
-DATE= +%F
+DATE=" +%F"
 echo "WELCOME TO DEVOPS TRAINING TODAY DATE IS ${DATE}"
