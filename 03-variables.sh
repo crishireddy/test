@@ -33,4 +33,5 @@ echo "count of Apples =${count}no"
 #count and no without space.
 FULL NAME=RISHI
 count=3
-echo "$FULL NAME -e \ncount of cherry = {count}no"
+echo "$FULL NAME"
+echo "count of cherry =${count}no"
