@@ -10,10 +10,10 @@ NAME=DEVOPS
 #
 
 
-#How to acess the variable we use ${var_name} symbol if we dont use $ then it will print just NAME insted of DEVOPS
+#How to access the variable we use ${var_name} symbol if we dont use $ then it will print just NAME instead of DEVOPS
 
 echo "${NAME}"
-#echo here when we do sh 03-variable then insted of name it will print DEVOPS
+#echo here when we do sh 03-variable then instead of name it will print DEVOPS
 
 #another example
 
@@ -35,3 +35,5 @@ FULLNAME="RISHI REDDY"
 count=3
 echo "$FULLNAME"
 echo "count of cherry =${count}no"
+#in the above fullname command we have to use quotes after = coz there are two set of strings with space in between,
+# without quotes it will throw an error.
