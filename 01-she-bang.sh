@@ -11,4 +11,3 @@
 
 ls
 find /etc -name passwd
-02
