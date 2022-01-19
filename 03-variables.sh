@@ -13,7 +13,7 @@ NAME=DEVOPS
 #How to acess the variable we use ${var_name} symbol if we dont use $ then it will print just NAME insted of DEVOPS
 
 echo "${NAME}"
-#here when we do sh 03-variable then insted of name it will print DEVOPS
+#echo here when we do sh 03-variable then insted of name it will print DEVOPS
 
 #another example
 
@@ -31,3 +31,6 @@ echo "count of Apples =${count}no"
 # why we used { was to get count of apples = 2no as result if without {} then it would print count of apples =     ,
 #as it would take countno as one thing but we gave count=2 and we anted to print 2no as result so adding {} would brake
 #count and no without space.
+FULL NAME=RISHI
+count=3
+echo "$FULL NAME -e \ncount of cherry = {count}no"
