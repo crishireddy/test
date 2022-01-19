@@ -39,3 +39,7 @@ echo "count of cherry =${count}no"
 # without quotes it will throw an error.
 DATE=" $(date +%F)"
 echo "WELCOME TO DEVOPS TRAINING TODAY DATE IS ${DATE}"
+#when its a static data (variable data) which changes from day to day like date then
+#command substitution
+# var="$(command)"
+# example is Date="$(date +%F) here this command has to excute and to excute you need $ symbol
