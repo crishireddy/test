@@ -5,6 +5,6 @@
 read -p 'ENTER YOUR NAME: ' name
 read -p 'ENTER YOUR AGE: ' age
 
-echo -e "\n\e[31myour name =${name} \e[0m \nyour age =${age}"
+echo -e "\n\e[31myour name = ${name} \e[0m \nyour age = ${age}"
 
 #echo -e "\n your name =${name} \n your age =${age}"
