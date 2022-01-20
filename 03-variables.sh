@@ -58,7 +58,7 @@ echo "${b[1]}"
 #----------------------------------
 #Environment variable
 
-if we echo A="${A}"
+echo A="${A}"
 # and if we give value of A=100 in terminal it wont show A=100 it will show A=blank to make A=100 we
 #use command export A=100 so it exports to local server(this one) and environment too which is terminal
 
