@@ -50,3 +50,8 @@ echo ADD="${ADD}"
 
 calc="$((2+3-1+6*3))"
 echo calc="${calc}"
+
+
+b="$((10 20 30))"
+echo "${b(0)}"
+echo "${b(1)}"
