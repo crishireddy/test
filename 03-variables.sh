@@ -39,4 +39,5 @@ echo "count of cherry =${count}no"
 # without quotes it will throw an error.
 DATE="$(date +%F)"
 echo "WELCOME TO DEVOPS TRAINING TODAY DATE IS ${DATE}"
-# for variables we have to use "$() as its a command to be excuted unlike NAME=HELLO
+# for variables we have to use "$() as its a command to be excuted unlike NAME=HELLO in name hello we are not using
+#variables but in date ="$(date +%F) we are using variables so .
