@@ -47,3 +47,6 @@ echo "WELCOME TO DEVOPS TRAINING TODAY DATE IS ${DATE}"
 
 ADD="$((2+3+4+5+6))"
 echo ADD="${ADD}"
+
+calc="$((2+3-1+6*3))"
+echo calc="${calc}"
