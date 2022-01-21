@@ -10,4 +10,4 @@ echo SECOND ARGUMENT = "$2"
 }
 
 sample xyz
-sample abc
+abc
