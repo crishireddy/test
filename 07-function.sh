@@ -30,10 +30,10 @@ sample xyz
 #we can declare variable in the function and vice versa example
 
 cat() {
-  echo a = $a
+  echo A = $A
 }
 cat
-a=20
+A=20
 
 mat() {
   b=30
