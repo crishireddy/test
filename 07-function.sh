@@ -14,5 +14,5 @@ sample () {
 echo SECOND ARGUMENT = $1
 }
 #sample xyz
-apple abc xyz
+apple abc
 sample xyz
