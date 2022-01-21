@@ -30,7 +30,7 @@ sample xyz
 #we can declare variable in the function and vice versa example
 
 cat() {
-  echo a = "${a}"
+  echo a = $a
 }
 cat
 a=20
