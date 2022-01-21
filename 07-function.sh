@@ -39,4 +39,4 @@ mat() {
   b=30
 }
 mat
-echo b = "${b})"
+echo b = "${b}"
