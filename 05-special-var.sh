@@ -16,3 +16,5 @@ echo "# = "${#}""
 #these are the by default commands where we submit the argument before running and it excute with argument
 #ex abc xyz is the argument so result will be 0=our script name,1=abc,2=xyz (note numbers we can give till n number 1,2,
 #3,4,.... echo 1,2,3,4 .... and @,* give abc xyz and # gives the count
+
+#to excute we give sh 05-special-ver.sh abc xyz
