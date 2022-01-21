@@ -40,3 +40,12 @@ mat() {
 }
 mat
 echo b = "${b}"
+
+#if we want to come out of the function we have to give return command
+#sample () { /nreturn /necho hello world.
+#sample1 () { \nb=100 \necho best.
+
+
+#sample
+#sample1
+#in the output sample will not be excuted and sample1 will be excuted as sample command is returned from the excution.
