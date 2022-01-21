@@ -6,3 +6,5 @@ sample() {
   echo hello from function
 
 }
+
+sample
