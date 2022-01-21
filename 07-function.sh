@@ -8,5 +8,4 @@ echo hello world
 echo FIRST ARGUMENT = $1
 }
 
-sample
-xyz
+sample xyz
