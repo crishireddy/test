@@ -11,8 +11,8 @@ echo FIRST ARGUMENT = $1
 sample () {
  echo hello
 
-echo SECOND ARGUMENT = $2
+echo SECOND ARGUMENT = $1
 }
 #sample xyz
 apple abc xyz
-#sample xyz
+sample xyz
