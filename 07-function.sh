@@ -21,3 +21,22 @@ sample xyz
 # note if we generate functiona and if we dont give the main excution below like apple(){ and then we give
 #apple if we miss this the it wont excute it will just store the function pacakage into cpu and search for excution
 #command.
+
+
+
+
+
+
+#we can declare variable in the function and vice versa example
+
+cat() {
+  echo a = "${a}"
+}
+cat
+a=20
+
+mat() {
+  b=30
+}
+mat
+echo b = "${b})"
