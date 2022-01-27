@@ -7,7 +7,7 @@ NAME=DEVOPS
 #variable is name = data is devops
 
 
-#
+#front your giving value to variable and down your calling that variable
 
 
 #How to access the variable we use ${var_name} symbol if we dont use $ then it will print just NAME instead of DEVOPS
