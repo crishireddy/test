@@ -8,3 +8,7 @@ if [ "$USER" != "root" ]; then
 fi
 
 #if is closed by fi
+
+if [ -z "a" ]; then
+  echo variable a is empty
+fi
