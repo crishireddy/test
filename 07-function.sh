@@ -30,7 +30,7 @@ sample xyz
 #we can declare variable in the function and vice versa example
 
 cat() {
-  echo c = $c
+  echo "c" = "$c"
 }
 cat
 c=20
@@ -49,3 +49,7 @@ echo b = "${b}"
 #sample
 #sample1
 #in the output sample will not be excuted and sample1 will be excuted as sample command is returned from the excution.
+
+if [ "$USER" != "root" ]; then
+  echo Hey! your not a root user
+fi
