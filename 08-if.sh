@@ -13,3 +13,5 @@ if [ -z "a" ];
   then
   echo variable a is empty
 fi
+
+# when we use = have to know
