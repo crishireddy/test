@@ -6,3 +6,5 @@
 if [ "$USER" != "root" ] then
   echo Hey your not a root user
 fi
+
+#if is closed by fi
