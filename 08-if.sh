@@ -9,6 +9,7 @@
 
 #if is closed by fi
 
-if [ -z "a" ]; then
+if [ -z "a" ];
+  then
   echo variable a is empty
 fi
