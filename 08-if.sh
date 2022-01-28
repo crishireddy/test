@@ -9,8 +9,10 @@ fi
 
 #if is closed by fi
 
-if [ -z "$a" ]; then
-  echo variable a is empty
+
+read -p 'Enter your name: ' name
+if [ -z "$name" ]; then
+  echo Hey you have not entered any input
 fi
 
 # when we use = have to know
