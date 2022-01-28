@@ -9,10 +9,8 @@ fi
 
 #if is closed by fi
 
-#if [ -z "$a" ];
- # then
-  #echo variable a is empty
-#fi
-A=100
-echo A = "$A"
+if [ -z "$a" ]; then
+  echo variable a is empty
+fi
+
 # when we use = have to know
