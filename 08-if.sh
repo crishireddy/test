@@ -13,5 +13,5 @@ if [ -z "$a" ];
   then
   echo variable a is empty
 fi
-
+a=10
 # when we use = have to know
