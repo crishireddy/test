@@ -13,6 +13,8 @@ fi
 read -p 'Enter your name: ' name
 if [ -z "$name" ]; then
   echo Hey you have not entered any input
+else
+  echo "$name" welcome to devops
 fi
 
 # when we use = have to know
