@@ -28,3 +28,4 @@ fi
 if [ -z "$a" ]; then
   echo a is empty
 fi
+a=20
