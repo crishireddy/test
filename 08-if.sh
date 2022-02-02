@@ -25,7 +25,7 @@ fi
 
 # when we use = have to know
 
-a=20
+a="20"
 
 if [ -z "$a" ]; then
   echo a is empty
